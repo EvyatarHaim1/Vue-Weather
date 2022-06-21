@@ -1,24 +1,7 @@
-# vue-weather
+ vue-weather
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+*Vue.js
+* Weather-api
+ ![alt text](https://github.com/EvyatarHaim1/Vue-Weather/blob/main/src/assets/screenshot1.png)
+ ![alt text](https://github.com/EvyatarHaim1/Vue-Weather/blob/main/src/assets/screenshot2.png)
+ 
